@@ -1,3 +1,3 @@
-Bloodbank_Web_App
+Bloodbank Web App
 
 https://bbms.pythonanywhere.com/
